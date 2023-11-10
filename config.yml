@@ -1,0 +1,20 @@
+baseURL: "https://blog.bensheppard.dev/"
+title: "Ben's Blog"
+theme: PaperMod
+params:
+  title: "Ben's Blog"
+  description: "A space for me to write about things I'm interested in."
+  keywords: [Blog, Warhammer, Creative]
+  author: Ben Sheppard
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+menu:
+  main:
+    - identifier: about
+      name: about
+      url: /about
+      weight: 10
+    - identifier: blog
+      name: blog
+      url: /posts/
+      weight: 20
