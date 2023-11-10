@@ -1,0 +1,5 @@
+baseURL = 'https://blog.bensheppard.dev/'
+languageCode = 'en-gb'
+title = 'Bens Blog'
+theme = 'PaperMod'
+
