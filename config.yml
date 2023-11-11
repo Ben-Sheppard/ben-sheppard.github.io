@@ -11,10 +11,10 @@ params:
 menu:
   main:
     - identifier: about
-      name: about
+      name: About
       url: /about
       weight: 10
-    - identifier: blog
-      name: blog
-      url: /posts/
+    - identifier: warhammer
+      name: Warhammer
+      url: /categories/warhammer
       weight: 20
