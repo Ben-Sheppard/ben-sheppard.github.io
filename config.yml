@@ -18,3 +18,7 @@ menu:
       name: Warhammer
       url: /categories/warhammer
       weight: 20
+    - identifier: coding
+      name: Coding
+      url: /categories/coding
+      weight: 30
