@@ -3,6 +3,7 @@ title: "Project Apollo: App Structure"
 date: 2024-03-05T22:48:22Z
 categories: ["coding"]
 tags: ["apollo", "software", "development", "music", "detection", "java"]
+draft: true
 ---
 
 In the [first blog post]({{< ref "/posts/coding/project-apollo-the-foundations" >}} "first blog post") of the Apollo project, I suggested that I would be using Java for the project as it's a familiar language to me, and as I would like to deepen my knowledge of Java, it feels like a good candidate. I am aware that there are likely more lightweight/faster/efficient languages/frameworks/tools to use but this time around at least its Java!

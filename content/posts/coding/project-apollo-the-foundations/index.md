@@ -3,6 +3,7 @@ title: "Project Apollo: The foundations"
 date: 2024-03-04T21:19:52Z
 categories: ["coding"]
 tags: ["apollo", "software", "development", "music", "detection"]
+draft: true
 ---
 
 For a while now I've found myself often sharing songs with friends at a particular timestamp because I really like the way that it sounds. It's often a specific riff that evokes a particular feeling or allows me to process a feeling.
