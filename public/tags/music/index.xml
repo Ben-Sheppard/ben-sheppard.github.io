@@ -6,13 +6,23 @@
     <description>Recent content in Music on Ben&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Mar 2024 21:19:52 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Mar 2024 22:48:22 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Apollo: App Structure</title>
+      <link>http://localhost:1313/posts/coding/project-apollo-app-structure/</link>
+      <pubDate>Tue, 05 Mar 2024 22:48:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/coding/project-apollo-app-structure/</guid>
+      <description>In the first blog post of the Apollo project, I suggested that I would be using Java for the project as it&amp;rsquo;s a familiar language to me, and as I would like to deepen my knowledge of Java, it feels like a good candidate. I am aware that there are likely more lightweight/faster/efficient languages/frameworks/tools to use but this time around at least its Java!
+I&amp;rsquo;ve been thinking about all the possible things that I want to do with this project.</description>
+    </item>
+    
     <item>
       <title>Project Apollo: The foundations</title>
-      <link>http://localhost:1313/coding/project-apollo/</link>
+      <link>http://localhost:1313/posts/coding/project-apollo-the-foundations/</link>
       <pubDate>Mon, 04 Mar 2024 21:19:52 +0000</pubDate>
       
-      <guid>http://localhost:1313/coding/project-apollo/</guid>
+      <guid>http://localhost:1313/posts/coding/project-apollo-the-foundations/</guid>
       <description>For a while now I&amp;rsquo;ve found myself often sharing songs with friends at a particular timestamp because I really like the way that it sounds. It&amp;rsquo;s often a specific riff that evokes a particular feeling or allows me to process a feeling.
 I&amp;rsquo;ve been thinking about how I could craft something that you could feed a section of a song into and it would suggest songs that have similar riffs or sounds.</description>
     </item>

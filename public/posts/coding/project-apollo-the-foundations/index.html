@@ -5,12 +5,15 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="noindex, nofollow">
-<title>Categories | Ben&#39;s Blog</title>
-<meta name="keywords" content="">
-<meta name="description" content="A space for me to write about things I&#39;m interested in.">
+<title>Project Apollo: The foundations | Ben&#39;s Blog</title>
+<meta name="keywords" content="apollo, software, development, music, detection">
+<meta name="description" content="For a while now I&rsquo;ve found myself often sharing songs with friends at a particular timestamp because I really like the way that it sounds. It&rsquo;s often a specific riff that evokes a particular feeling or allows me to process a feeling.
+I&rsquo;ve been thinking about how I could craft something that you could feed a section of a song into and it would suggest songs that have similar riffs or sounds.">
 <meta name="author" content="Ben Sheppard">
-<link rel="canonical" href="http://localhost:1313/categories/">
+<link rel="canonical" href="http://localhost:1313/posts/coding/project-apollo-the-foundations/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.5c9d329fe67e00cc04c4b03c566243092dce7c236d28668a2bf336d6cd669499.css" integrity="sha256-XJ0yn&#43;Z&#43;AMwExLA8VmJDCS3OfCNtKGaKK/M21s1mlJk=" rel="preload stylesheet" as="style">
+<script defer crossorigin="anonymous" src="/assets/js/highlight.f413e19d0714851f6474e7ee9632408e58ac146fbdbe62747134bea2fa3415e0.js" integrity="sha256-9BPhnQcUhR9kdOfuljJAjlisFG&#43;9vmJ0cTS&#43;ovo0FeA="
+    onload="hljs.initHighlightingOnLoad();"></script>
 <link rel="icon" href="http://localhost:1313/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
@@ -18,8 +21,7 @@
 <link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/categories/index.xml">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/categories/">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/posts/coding/project-apollo-the-foundations/">
 <noscript>
     <style>
         #theme-toggle,
@@ -59,7 +61,7 @@
 </noscript>
 </head>
 
-<body class="list" id="top">
+<body class="" id="top">
 <script>
     if (localStorage.getItem("pref-theme") === "dark") {
         document.body.classList.add('dark');
@@ -120,18 +122,67 @@
     </nav>
 </header>
 <main class="main">
-<header class="page-header">
-    <h1>Categories</h1>
-</header>
 
-<ul class="terms-tags">
-    <li>
-        <a href="http://localhost:1313/categories/coding/">coding <sup><strong><sup>2</sup></strong></sup> </a>
-    </li>
-    <li>
-        <a href="http://localhost:1313/categories/warhammer/">Warhammer <sup><strong><sup>1</sup></strong></sup> </a>
-    </li>
+<article class="post-single">
+  <header class="post-header">
+    <div class="breadcrumbs"><a href="http://localhost:1313/">Home</a>&nbsp;»&nbsp;<a href="http://localhost:1313/posts/">Posts</a></div>
+    <h1 class="post-title">
+      Project Apollo: The foundations
+    </h1>
+    <div class="post-meta"><span title='2024-03-04 21:19:52 +0000 UTC'>March 4, 2024</span>&nbsp;·&nbsp;Ben Sheppard
+
+</div>
+  </header> 
+  <div class="post-content"><p>For a while now I&rsquo;ve found myself often sharing songs with friends at a particular timestamp because I really like the way that it sounds. It&rsquo;s often a specific riff that evokes a particular feeling or allows me to process a feeling.</p>
+<p>I&rsquo;ve been thinking about how I could craft something that you could feed a section of a song into and it would suggest songs that have similar riffs or sounds. I realise that this is likely something that is already happening in apps such as Spotify or Apple Music in some form, but I think it would be a fun project to work on regardless!</p>
+<h3 id="the-plan">The Plan<a hidden class="anchor" aria-hidden="true" href="#the-plan">#</a></h3>
+<p>I&rsquo;m going to call this project Apollo, after the Greek god of music, and I&rsquo;m going to document my progress here. My first thoughts are that I need:</p>
+<ol>
+<li>A way to feed a specific section of a song into a program</li>
+<li>A way to analyse the sound of that section</li>
+<li>A way to compare that sound to other songs</li>
+<li>A way to suggest songs that have similar sounds</li>
+</ol>
+<p>It seems fairly simple listed like that, but I&rsquo;m sure there will be some challenges along the way. Speaking of challenges, I am going to set out some rules for this challenge project, they are:</p>
+<ol>
+<li>Library usage is limited to the following:
+<ul>
+<li>Standard libraries (none that abstract the actual logic away, I want to learn something here!)</li>
+<li>Libraries that are used for testing</li>
 </ul>
+</li>
+<li>The algorithm should be performant</li>
+<li>The storage method should be simple and easy to understand</li>
+</ol>
+<h3 id="step-1-creating-a-base-application">Step 1: Creating a base application<a hidden class="anchor" aria-hidden="true" href="#step-1-creating-a-base-application">#</a></h3>
+<p>I&rsquo;m a Java dev and I would like these projects to further and deepen my knowledge of Java also, so I&rsquo;m going to use Java here!</p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="http://localhost:1313/tags/apollo/">Apollo</a></li>
+      <li><a href="http://localhost:1313/tags/software/">Software</a></li>
+      <li><a href="http://localhost:1313/tags/development/">Development</a></li>
+      <li><a href="http://localhost:1313/tags/music/">Music</a></li>
+      <li><a href="http://localhost:1313/tags/detection/">Detection</a></li>
+    </ul>
+<nav class="paginav">
+  <a class="prev" href="http://localhost:1313/posts/warhammer/the-beginning/">
+    <span class="title">« Prev</span>
+    <br>
+    <span>The Beginning</span>
+  </a>
+  <a class="next" href="http://localhost:1313/posts/coding/project-apollo-app-structure/">
+    <span class="title">Next »</span>
+    <br>
+    <span>Project Apollo: App Structure</span>
+  </a>
+</nav>
+
+  </footer>
+</article>
     </main>
     
 <footer class="footer">

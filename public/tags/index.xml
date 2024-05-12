@@ -6,11 +6,11 @@
     <description>Recent content in Tags on Ben&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Mar 2024 21:19:52 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Mar 2024 22:48:22 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apollo</title>
       <link>http://localhost:1313/tags/apollo/</link>
-      <pubDate>Mon, 04 Mar 2024 21:19:52 +0000</pubDate>
+      <pubDate>Tue, 05 Mar 2024 22:48:22 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/apollo/</guid>
       <description></description>
@@ -19,7 +19,7 @@
     <item>
       <title>Detection</title>
       <link>http://localhost:1313/tags/detection/</link>
-      <pubDate>Mon, 04 Mar 2024 21:19:52 +0000</pubDate>
+      <pubDate>Tue, 05 Mar 2024 22:48:22 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/detection/</guid>
       <description></description>
@@ -28,16 +28,25 @@
     <item>
       <title>Development</title>
       <link>http://localhost:1313/tags/development/</link>
-      <pubDate>Mon, 04 Mar 2024 21:19:52 +0000</pubDate>
+      <pubDate>Tue, 05 Mar 2024 22:48:22 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Java</title>
+      <link>http://localhost:1313/tags/java/</link>
+      <pubDate>Tue, 05 Mar 2024 22:48:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Music</title>
       <link>http://localhost:1313/tags/music/</link>
-      <pubDate>Mon, 04 Mar 2024 21:19:52 +0000</pubDate>
+      <pubDate>Tue, 05 Mar 2024 22:48:22 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/music/</guid>
       <description></description>
@@ -46,7 +55,7 @@
     <item>
       <title>Software</title>
       <link>http://localhost:1313/tags/software/</link>
-      <pubDate>Mon, 04 Mar 2024 21:19:52 +0000</pubDate>
+      <pubDate>Tue, 05 Mar 2024 22:48:22 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/software/</guid>
       <description></description>

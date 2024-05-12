@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Java on Ben&#39;s Blog</title>
+    <link>http://localhost:1313/tags/java/</link>
+    <description>Recent content in Java on Ben&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 05 Mar 2024 22:48:22 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Apollo: App Structure</title>
+      <link>http://localhost:1313/posts/coding/project-apollo-app-structure/</link>
+      <pubDate>Tue, 05 Mar 2024 22:48:22 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/coding/project-apollo-app-structure/</guid>
+      <description>In the first blog post of the Apollo project, I suggested that I would be using Java for the project as it&amp;rsquo;s a familiar language to me, and as I would like to deepen my knowledge of Java, it feels like a good candidate. I am aware that there are likely more lightweight/faster/efficient languages/frameworks/tools to use but this time around at least its Java!
+I&amp;rsquo;ve been thinking about all the possible things that I want to do with this project.</description>
+    </item>
+    
+  </channel>
+</rss>
