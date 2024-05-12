@@ -1,3 +1,18 @@
 main {
-  --main-width: 70%;
+    --main-width: 70%;
+}
+
+#top > main > article > div > figure > figcaption {
+    color: rgba(0, 0, 0, 0.5);
+    font-style: italic;
+    font-weight: normal;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+.flex-container > figure {
+    margin: 10px;
 }

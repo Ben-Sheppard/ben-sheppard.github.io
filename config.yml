@@ -4,21 +4,8 @@ theme: PaperMod
 params:
   title: "Ben's Blog"
   description: "A space for me to write about things I'm interested in."
-  keywords: [Blog, Warhammer, Creative]
+  keywords: [Blog, Warhammer, Creative, allotment, coding, software]
   author: Ben Sheppard
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-menu:
-  main:
-    - identifier: about
-      name: About
-      url: /about
-      weight: 10
-    - identifier: warhammer
-      name: Warhammer
-      url: /categories/warhammer
-      weight: 20
-    - identifier: coding
-      name: Coding
-      url: /categories/coding
-      weight: 30
+sectionPagesMenu: main
