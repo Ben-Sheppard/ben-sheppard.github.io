@@ -1,11 +1,35 @@
 baseURL: "https://blog.bensheppard.dev/"
-title: "Ben's Blog"
-theme: PaperMod
+title: "Inside my mind"
+theme: hugo-theme-stack
 params:
-  title: "Ben's Blog"
   description: "A space for me to write about things I'm interested in."
   keywords: [Blog, Warhammer, Creative, allotment, coding, software]
-  author: Ben Sheppard
-  ShowPostNavLinks: true
-  ShowBreadCrumbs: true
-sectionPagesMenu: main
+  author:
+    name: "Ben Sheppard"
+    email:
+  mainSections:
+    - post
+  widgets:
+    homepage:
+      - type: archives
+        params:
+          limit: 5
+      - type: categories
+        params:
+          limit: 10
+    page:
+      - type: toc
+  imageProcessing:
+    cover:
+      enabled: true
+    content:
+      enabled: true
+  menu:
+    main: [ ]
+  sidebar:
+    subtitle: "I am a software engineer with interests that are not always related to my job, this is a blog about them."
+  markup:
+    tableOfContents:
+      endLevel: 3
+      ordered: true
+      startLevel: 1

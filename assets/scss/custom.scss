@@ -1,0 +1,24 @@
+.gallery {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 1.5em 0;
+    gap: 10px;
+}
+
+.article-page .main-article .article-content img {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+
+    h2 {
+        padding-top: 7px;
+    }
+}
