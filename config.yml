@@ -11,9 +11,6 @@ params:
     - post
   widgets:
     homepage:
-      - type: archives
-        params:
-          limit: 5
       - type: categories
         params:
           limit: 10
