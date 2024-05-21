@@ -1,16 +1,14 @@
 ---
 title: "Quick cover the brassicas!"
 date: 2024-05-12T21:37:13+01:00
-lastmod: 2024-05-12T21:37:13+01:00
 categories: ["allotment"]
 tags: ["allotment"]
 draft: false
 ---
 
-It was a busy (and warm!) day at the allotment,
-today we needed to do a lot of planting out and protecting crops from birds and slugs,
+It was a busy (and warm!) day at the allotment today, but we needed to do a lot of planting out and protecting crops from birds and slugs,
 but the allotment is taking shape.
-It's great to see plants starting to fruit, areas clearly defined and the greenhouses clear down!
+It's great to see plants starting to fruit, areas clearly defined and the greenhouses empty of young plants!
 
 ## Brassicas
 Our brassicas are now covered with a fine netting that hopefully will stop the cabbage white butterflies from having a feast.
@@ -50,7 +48,7 @@ Along with tomatoes in the greenhouse, these ones have already been planted out 
 ![Outdoor tomatoes](tomatoes-3.png)
 
 ## Raised beds
-This is something new we are trying this yea, it's called the "no dig"
+This is something new we are trying this year, it's called the "no dig"
 method and the idea is that you don't dig the soil (surprising, I know). We laid cardboard down on the existing soil to
 supress weeds and then added an initial batch of compost on top. We then plant directly into the compost. It's early days
 but so far it seems to be working well for the onions and garlic.
