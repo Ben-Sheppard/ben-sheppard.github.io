@@ -1,6 +1,7 @@
 baseURL: "https://blog.bensheppard.dev/"
 title: "Inside my mind"
 theme: hugo-theme-stack
+enableGitInfo: true
 params:
   description: "A space for me to write about things I'm interested in."
   keywords: [Blog, Warhammer, Creative, allotment, coding, software]
@@ -9,6 +10,10 @@ params:
     email:
   mainSections:
     - post
+  frontmatter:
+    lastmod:
+      - :git
+      - :fileModTime
   widgets:
     homepage:
       - type: categories

@@ -1,6 +1,7 @@
 ---
-title: {{ replace .File.ContentBaseName "-" " " | title }}
+title: {{ title }}
 date: {{ .Date }}
+lastmod: {{ .Date }}
 categories: []
 tags: []
 draft: true
