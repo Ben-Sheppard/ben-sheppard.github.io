@@ -4,7 +4,7 @@ date: 2025-05-18T21:37:26+01:00
 lastmod: 2025-05-18T21:37:26+01:00
 categories: ["allotment"]
 tags: ["allotment", "plot one", "plot two", "greenhouse"]
-draft: true
+draft: false
 ---
 
 ## New greenhouse
